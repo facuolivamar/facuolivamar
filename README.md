@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 
+```python
+name = 'Facundo'
+
+dev = newDeveloper(name)
+
+while dev.isCoding:
+  dev.listenToMusic()
+  dev.openStackOverFlow()
+  dev.drinkWater()
+
+```
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/facundoolivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundoolivam" height="30" width="40" /></a>
+<a href="mailto:facundoolivam@gmail.com"><img src="https://img.shields.io/badge/mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
