@@ -1,17 +1,6 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">A developer from Argentina</h3>
 
-```python
-name = 'Facundo'
-
-dev = newDeveloper(name)
-
-while dev.isCoding:
-  dev.listenToMusic()
-  dev.openStackOverFlow()
-  dev.drinkWater()
-
-```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
