@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SalasCuna for Ministry of Development of Cordoba](https://github.com/santiago6124/SalasCuna/tree/develop)
 
-- 🔭 I’m currently working on [Personal Project for automating systems](https://portal.azure.com/?quickstart=true#create/hub)
+- 🔭 I’m currently working on [Personal Project for automating systems](https://django-images.azurewebsites.net/admin/)
 
 - 🔭 I’m currently working on [Fiverr as freelancer](https://www.fiverr.com/s/BlKYkk)
 
