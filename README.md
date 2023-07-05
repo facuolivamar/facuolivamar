@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Personal Project for automating systems](https://django-images.azurewebsites.net/admin/)
 
-- 🔭 I’m currently working on [Fiverr as freelancer](https://www.fiverr.com/s/BlKYkk)
+- 🔭 I’m currently working on [Fiverr as freelancer](https://www.fiverr.com/facundoolivam/)
 
 - 💬 Ask me about **Python, Django and Databases.**
 
