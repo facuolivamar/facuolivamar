@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [SDCAN for CONAE](https://github.com/facuolivamar/sdcan-g3v)
 
-- 🔭 I’m currently working on [SalasCuna for Ministry of Development of Cordoba](https://github.com/santiago6124/SalasCuna/tree/develop)
+- 🔭 I’m currently working on [SalasCuna for Ministry of Social Development of Cordoba](https://github.com/santiago6124/SalasCuna/tree/develop)
 
 - 🔭 I’m currently working on [Personal Project for automating systems](https://django-images.azurewebsites.net/admin/)
 
